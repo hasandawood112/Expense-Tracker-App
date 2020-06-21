@@ -1,5 +1,5 @@
 import React, { createContext, useReducer } from "react";
-import transReducer from './transReducer';
+// import transReducer from './transReducer';
 import TransactionReducer from "./transReducer";
 
 
